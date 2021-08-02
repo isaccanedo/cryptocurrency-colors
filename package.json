@@ -1,0 +1,26 @@
+{
+  "name": "cryptocurrency-colors",
+  "version": "1.0.0",
+  "description": "A database containing the dominant colors of all cryptocurrencies",
+  "main": "example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MitchDorrestijn/cryptocurrency-colors.git"
+  },
+  "keywords": [
+    "cryptocurrency",
+    "colors",
+    "dominant",
+    "crypto",
+    "database"
+  ],
+  "author": "Mitch Dorrestijn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MitchDorrestijn/cryptocurrency-colors/issues"
+  },
+  "homepage": "https://github.com/MitchDorrestijn/cryptocurrency-colors#readme"
+}
